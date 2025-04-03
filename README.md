@@ -1,6 +1,6 @@
 installation:
 
-  git clone https://github.com/Arsen4ik/apple-store-backend.git -b build
+  git clone https://github.com/Ray3en/store-backend -b build
   
   npm i
 
