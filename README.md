@@ -1,6 +1,6 @@
 installation:
 
-  git clone https://github.com/Arsen4ik/apple-store-backend.git -b build
+  git clone https://github.com/ray3en/store-backend.git
   
   npm i
 
@@ -9,7 +9,9 @@ start project:
   npm run serve
 
 usage:
-
+  get all category:
+    http://localhost:1452/api/category/
+    
   get all products:
     http://localhost:1452/api/products/
 
